@@ -52,3 +52,7 @@ python3 main.py
 - [Markdown Guide](https://www.markdownguide.org/)
 # My First Repository
 
+
+## Description
+CSE103 lab repository - LAB3.
+
